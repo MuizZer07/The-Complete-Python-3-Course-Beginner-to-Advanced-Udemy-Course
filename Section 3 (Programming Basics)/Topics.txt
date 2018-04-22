@@ -1,0 +1,9 @@
+
+- Basic Types
+- Variables
+- Functions
+- Built-in Functions
+- Self-defined Functions
+- if/else statements
+- Loops (for, while)
+- Different libraries

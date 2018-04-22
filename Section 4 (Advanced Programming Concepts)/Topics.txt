@@ -1,0 +1,9 @@
+- PEP guidelines
+- More into loops
+- Break statement
+- Continue statement
+- Class & Object
+- Intances variables
+- Class & instance variables
+- Comments
+- Importing modules from relative paths
