@@ -1,6 +1,8 @@
 # The-Complete-Python-3-Course-Beginner-to-Advanced-Udemy-Course
 
-In this repository, I have uploaded all the exercises and projects that I have done so far from a Udemy Course (The Complete Python 3 Course: Beginner to Advanced!). My Udemy profile:  https://www.udemy.com/user/muiz-ahmed-khan/
+In this repository, I have uploaded all the exercises and projects that I have done so far from a Udemy Course (The Complete Python 3 Course: Beginner to Advanced!). 
+Course link: https://www.udemy.com/python-complete/
+My Udemy profile:  https://www.udemy.com/user/muiz-ahmed-khan/
 
 
 Course Details:
